@@ -1,0 +1,38 @@
+body{
+    background-color: aliceblue;
+}
+
+header{
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+nav{
+    border: 2px solid;
+}
+
+li{
+    font-size: 18px;
+    display: inline;
+}
+
+
+li a{
+    
+    background-color: #dddddd;
+    padding: 8px;
+}
+
+footer{
+    text-align: center;
+}
+
+.box{
+    background-color:lightgray;
+    padding: 20px;
+}
+
